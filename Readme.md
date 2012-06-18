@@ -73,7 +73,7 @@ will produce
 
 ## reverse()
 
-Performs an action reverse to repack()
+Performs an action reversed to repack()
 
 ```js
 abc.reverse({
