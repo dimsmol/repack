@@ -1,3 +1,4 @@
+* handle exceptions in collectingFunc (how?)
 * support arrays for rename_rule & restruct
 * add "transformers" (how?)
 	* relatively easy for "rename_rule", but:
