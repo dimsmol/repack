@@ -1,3 +1,4 @@
+* preserve keys order (at least if keys are specified) (?)
 * support arrays for rename_rule & restruct
 * add "transformers" (how?)
 	* relatively easy for "rename_rule", but:
