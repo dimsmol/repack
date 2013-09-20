@@ -130,3 +130,7 @@ will produce the following:
 	noPrefix: true
 }
 ```
+
+## License
+
+MIT
